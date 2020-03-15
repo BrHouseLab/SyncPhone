@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SyncPhone</string>
+    <string name="db_host">databasehost.com/data_base_name</string>
+    <string name="hostHint">Введите хост</string>
+</resources>
